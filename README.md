@@ -8,11 +8,11 @@
 
 [Role](src/main/kotlin/app/birojow/kotlindslexample/Role.kt)
 
-### DSL
+### Domain Specific Language
 
 [UserDsl](src/main/kotlin/app/birojow/kotlindslexample/UserDsl.kt)
 
-### Uso
+### Exemplo de uso
 
 [Main](src/main/kotlin/app/birojow/kotlindslexample/Main.kt)
 
