@@ -1,7 +1,5 @@
 package app.birojow.kotlindslexample
 
-import java.time.LocalDate
-
 data class User(
     val name: String,
     val contactInfo: ContactInfo,
